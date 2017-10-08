@@ -1,0 +1,17 @@
+{
+  "name": "mikan2",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/munky69rock/mikan2",
+  "author": "Masayuki Uehara <munky69rock@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm run build && node dist/index.js",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "^8.0.33",
+    "botkit": "^0.6.3",
+    "typescript": "^2.5.3"
+  }
+}

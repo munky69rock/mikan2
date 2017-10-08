@@ -1,0 +1,7 @@
+---
+applications:
+- name: mikan
+  command: npm start
+  path: .
+  instance: 1
+  memory: 256M
