@@ -12,7 +12,7 @@
     "fix-lint": "tslint -c tslint.json --fix 'src/**/*.ts'"
   },
   "dependencies": {
-    "@types/node": "^8.0.33",
+    "@types/node": "^9.4.7",
     "@types/winston": "^2.3.6",
     "botkit": "^0.6.3",
     "typescript": "^2.5.3",
